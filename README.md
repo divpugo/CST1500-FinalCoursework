@@ -1,23 +1,50 @@
-# CST1500-FinalCoursework
-The aim of this project is to create a user-friendly calculator which offers both basic as well as scientific functionalities, integrated in a fully functional Graphical User Interface (GUI). The programming language used throughout the program is Python 3.8. and the GUI programming toolkit used is Tkinter. 
+# Scientific Calculator
 
-As part of a basic calculator, this program allows the user to perform the following basic operations: 
+## Project Overview
+The aim of this project is to create a user-friendly calculator which offers both basic and scientific functionalities, integrated in a fully functional Graphical User Interface (GUI). The programming language used is Python 3.8, and the GUI toolkit utilized is Tkinter.
 
--	Addition 
-- Subtraction 
-- Multiplication 
-- Division 
-- Equal 
-- Clear 
+---
 
-Each of the mathematical functions operate with full precision without rounding and missing decimals. 
-In addition to the simple calculations, scientific aspects of a calculator have been implemented. Namely: 
-- Square Root 
-- Logarithmic functions 
-- Trigonometric functions such as: 
-    - sin(x) 
-    - cos(x) 
-    - tan(x) 
-- Mathematical constants such as: 
-    - Pi 
-- Modulus 
+## Basic Calculator Functions
+The basic functionality of the calculator includes:
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Equal
+- Clear
+
+All basic operations are executed with full precision, ensuring no rounding errors or missing decimals.
+
+---
+
+## Scientific Features
+In addition to basic functionalities, the calculator also includes several scientific features:
+- Square Root
+- Logarithmic functions
+- Trigonometric functions:
+  - sin(x)
+  - cos(x)
+  - tan(x)
+- Mathematical constants:
+  - Pi
+- Modulus
+
+---
+
+## Aperçu du Projet
+L'objectif de ce projet est de créer une calculatrice conviviale offrant à la fois des fonctionnalités de base et scientifiques, intégrées dans une interface graphique pleinement fonctionnelle. Le langage de programmation utilisé est Python 3.8, et l'outil GUI utilisé est Tkinter.
+
+---
+
+## Fonctions de Calculatrice de Base
+Les fonctionnalités de base de la calculatrice incluent :
+- Addition
+- Soustraction
+- Multiplication
+- Division
+- Égal
+- Effacer
+
+Toutes les opérations de base sont exécutées avec une précision totale, assurant l'absence d'erreurs d'arrondissement ou de décimales manquantes.
+
